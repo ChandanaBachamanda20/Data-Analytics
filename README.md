@@ -3,6 +3,7 @@
 # Retail Sales Analysis Project
 This project analyzes retail sales data to find trends, top customers, and performance insights.The analysis is done using Python in Google Colab.
  Steps Followed
+ 
 1.Data Import
    - Loaded the dataset into Colab using Pandas.
    - Checked the first few rows with `df.head()`.
@@ -13,7 +14,7 @@ This project analyzes retail sales data to find trends, top customers, and perfo
    - Dropped irrelevant columns.(Date_of_Sale:after splitting it into Y/M and Date)
 
 3.Exploratory Data Analysis (EDA)
-   - Checked summary statistics with `df.describe(), value_counts(), sum().
+    Checked summary statistics with `df.describe(), value_counts(), sum().
 
 
 
